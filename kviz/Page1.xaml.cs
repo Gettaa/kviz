@@ -29,5 +29,20 @@ namespace kviz
         {
 
         }
+
+        private void biobutton_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void infobutton_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void nextbutton_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }

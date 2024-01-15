@@ -19,6 +19,9 @@ namespace kviz
         public MainWindow()
         {
             InitializeComponent();
+            //Adatok.Betolt();
+            Page1 page1 = new Page1();
+            vaszon.Navigate(page1);
         }
     }
 }
