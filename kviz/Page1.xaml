@@ -30,7 +30,6 @@
                     </TransformGroup>
                 </ComboBox.RenderTransform>
             </ComboBox>
-            <Label Content="Adja meg a nevét:&#xD;&#xA;" Width="141" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16"/>
             <Label Content="Adja meg a témakört:&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Height="35" Width="160" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" FontSize="16" Margin="0,1,0,0"/>
             <Grid Grid.Row="3">
                 <Grid.ColumnDefinitions>
@@ -47,6 +46,19 @@
                 <RadioButton x:Name="infobutton" Content="Informatika" HorizontalAlignment="Left" Margin="18,0,0,0" Grid.Row="2" VerticalAlignment="Center" FontSize="16" Checked="infobutton_Checked"/>
             </Grid>
             <Button x:Name="nextbutton" Content="Játék indítása" Grid.Row="6" RenderTransformOrigin="0.546,0.683" Height="37" HorizontalAlignment="Center" VerticalAlignment="Center" Width="108" Click="nextbutton_Click" FontSize="16"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions/>
+                <Label Content="Adja meg a nevét:&#xD;&#xA;" Width="141" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Height="43"/>
+                <Button x:Name="langbutton" Grid.Column="3" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" Height="43" Width="68" Click="langbutton_Click" Visibility="Hidden">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/huflag.jpeg"/>
+                    </Button.Background>
+                </Button>
+            </Grid>
         </Grid>
 
     </Grid>
