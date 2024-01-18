@@ -8,4 +8,19 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="huflag.jpeg" />
+    <None Remove="hunflag.jpeg" />
+    <None Remove="pics\deflag.jpeg" />
+    <None Remove="pics\enflag.jpeg" />
+    <None Remove="pics\huflag.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="huflag.jpeg" />
+    <Resource Include="pics\deflag.jpeg" />
+    <Resource Include="pics\enflag.jpeg" />
+    <Resource Include="pics\huflag.jpeg" />
+  </ItemGroup>
+
 </Project>

@@ -53,9 +53,9 @@
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions/>
                 <Label Content="Adja meg a nevét:&#xD;&#xA;" Width="141" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Height="43"/>
-                <Button x:Name="langbutton" Grid.Column="3" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" Height="43" Width="68" Click="langbutton_Click" Visibility="Hidden">
+                <Button x:Name="langbutton" Grid.Column="3" Content="" HorizontalAlignment="Center" VerticalAlignment="Center" Height="43" Width="96" Click="langbutton_Click">
                     <Button.Background>
-                        <ImageBrush ImageSource="/huflag.jpeg"/>
+                        <ImageBrush ImageSource="/huflag.jpeg" TileMode="FlipY"/>
                     </Button.Background>
                 </Button>
             </Grid>
