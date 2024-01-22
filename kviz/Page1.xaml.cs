@@ -59,12 +59,12 @@ namespace kviz
                     langbutton.Background = Englishflag;
                     break;
                 case "en":
-                    Uri dflag = new Uri("deflag.jpeg", UriKind.Relative);
+                    Uri dflag = new Uri("pics/deflag.jpeg", UriKind.Relative);
                     ImageBrush Deutschflag = new ImageBrush(new BitmapImage(dflag));
                     langbutton.Background = Deutschflag;
                     lang = "de"; break;
                 case "de":
-                    Uri hflag = new Uri("huflag.jpeg", UriKind.Relative);
+                    Uri hflag = new Uri("pics/huflag.jpeg", UriKind.Relative);
                     ImageBrush Hungflag = new ImageBrush(new BitmapImage(hflag));
                     langbutton.Background = Hungflag;
                     lang = "hu"; break;
