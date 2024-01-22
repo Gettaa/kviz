@@ -1,0 +1,150 @@
+b;Mi a fotoszintézis fő célja?;A növények energiatermelése;Az oxigén termelése;A vízgőz kibocsátása
+b;Melyik szerv felelős a vércukorszint szabályozásáért?;Hasnyálmirigy;Máj;Szív
+b;Mi a DNS fő szerepe a sejtekben?;Genetikai információ tárolása;Energia előállítása;Vízszabályozás
+b;Mi a mitokondrium fő funkciója?;Energia előállítás;Fehérjeszintézis;Sejtosztódás
+b;Hogyan nevezik a sejtekbe jutó tápanyagok lebontását?;Glikolízis;Fotoszintézis;Citromsav ciklus
+b;Melyik növényi sejtben található a zöld színű pigment?;Kloroplaszta;Riboszóma;Lizoszóma
+b;Milyen típusú sejtek alkotják a vért?;Vörösvérsejtek, fehérvérsejtek, vérlemezkék;Izomsejtek;Idegsejtek
+b;Mi a különbség az összehúzódó és ellazuló izomsejtek között?;Az összehúzódó izomok rövidülnek, az ellazulók megnyúlnak;Az összehúzódó izmok vastagabbak, az ellazulók vékonyabbak;Nincs különbség közöttük
+b;Mi a szerepe a vesebuboréknak a vesében?;Vizeletképzés;Vérnyomás szabályozása;Emésztés
+b;Milyen típusú kapcsolat áll fenn az élőlények és az ökoszisztéma között?;Kölcsönhatás;Szerződés;Konzultáció
+b;Melyik növényi szerv felelős a víz és tápanyagok felszívásáért?;Gyökér;Levél;Hajtás
+b;Mi a kromoszómák szerepe a sejtosztódás során?;Genetikai információ öröklése;Energia előállítás;Vírusok elleni védelem
+b;Milyen típusú szerves molekulák alkotják a fehérjéket?;Aminosavak;Zsírsavak;Szénhidrátok
+b;Mi a különbség az eukarióta és prokarióta sejtek között?;Az eukarióta sejtek maggal rendelkeznek, a prokarióta sejtek nem;Az eukarióta sejtek kisebbek, mint a prokarióta sejtek;Nincs különbség közöttük
+b;Mi az enzimek szerepe a biokémiai reakciókban?;Felgyorsítják a reakciókat;Lassítják a reakciókat;Semlegesítik a reakciókat
+b;Melyik szervünk a legnagyobb szervünk a testen?;Bőr;Tüdő;Máj
+b;Mi a kettős spirál szerkezetű molekula, amely a genetikai információt hordozza?;DNS;RNS;ATP
+b;Melyik állítás igaz az öröklődésre?;Az öröklődés a szülők genetikai információinak kombinációjából származik;Az öröklődés csak az anyai ágon következik be;Az öröklődés véletlenszerű folyamat
+b;Mi a fotoszintetizáló növények fő energiaforrása?;Napfény;Levegő;Víz
+b;Melyik szerv felelős a vér szűréséért és tisztításáért?;Máj;Vese;Lép
+b;Melyik szerves molekula szolgál hosszú távú energiatárolási célnak a szervezetben?;Zsír;Fehérje;Szénhidrát
+b;Mi a citoplazma szerepe a sejtekben?;Sejtszervek helye és támasztója;Genetikai információ tárolása;Energia előállítása
+b;Melyik szervünk felelős a hormonok termeléséért és kiválasztásáért?;Endokrin mirigyek;Vese;Szív
+b;Mi a szerepe a vérlemezkéknek a vérben?;Vérzéscsillapítás;Oxigénszállítás;Immunválasz
+b;Mit nevezünk evolúciónak a biológiában?;Az élőlények fokozatos változása az idő során;Az élőlények születése;Az élőlények pusztulása
+b;Melyik állítás igaz a sejtosztódásra?;A sejtosztódás során a sejt kettéválik, és két azonos lánya sejtet hoz létre;A sejtosztódás csak növényi sejtekben történik;A sejtosztódás csak akkor következik be, ha a sejt túl nagyra nő
+b;Mi a szerepe az immunrendszernek a szervezetben?;Vírusok és baktériumok elleni védelem;Étel emésztése;Vérnyomás szabályozása
+b;Melyik szervünk felelős a véroxigén szállításáért a testben?;Tüdő;Szív;Máj
+b;Mi a klorofill szerepe a fotoszintézis során?;Napenergia elnyelése és fotoszintetikus folyamatok elindítása;Víz felszívása a gyökereken keresztül;Levegőből származó szén-dioxid elraktározása
+b;Mi a szerepe a vörösvérsejteknek a szervezetben?;Oxigénszállítás;Étel emésztése;Immunválasz
+b;Melyik szerv felelős a vércukorszint szabályozásáért?;Hasnyálmirigy;Máj;Szív
+b;Mi a mitokondrium fő funkciója?;Energia előállítás;Fehérjeszintézis;Sejtosztódás
+b;Hogyan nevezik a sejtekbe jutó tápanyagok lebontását?;Glikolízis;Fotoszintézis;Citromsav ciklus
+b;Melyik növényi sejtben található a zöld színű pigment?;Kloroplaszta;Riboszóma;Lizoszóma
+b;Milyen típusú sejtek alkotják a vért?;Vörösvérsejtek, fehérvérsejtek, vérlemezkék;Izomsejtek;Idegsejtek
+b;Mi a különbség az összehúzódó és ellazuló izomsejtek között?;Az összehúzódó izomok rövidülnek, az ellazulók megnyúlnak;Az összehúzódó izmok vastagabbak, az ellazulók vékonyabbak;Nincs különbség közöttük
+b;Mi a szerepe a vesebuboréknak a vesében?;Vizeletképzés;Vérnyomás szabályozása;Emésztés
+b;Milyen típusú kapcsolat áll fenn az élőlények és az ökoszisztéma között?;Kölcsönhatás;Szerződés;Konzultáció
+b;Melyik növényi szerv felelős a víz és tápanyagok felszívásáért?;Gyökér;Levél;Hajtás
+b;Mi a kromoszómák szerepe a sejtosztódás során?;Genetikai információ öröklése;Energia előállítás;Vírusok elleni védelem
+b;Milyen típusú szerves molekulák alkotják a fehérjéket?;Aminosavak;Zsírsavak;Szénhidrátok
+b;Mi a különbség az eukarióta és prokarióta sejtek között?;Az eukarióta sejtek maggal rendelkeznek, a prokarióta sejtek nem;Az eukarióta sejtek kisebbek, mint a prokarióta sejtek;Nincs különbség közöttük
+b;Mi az enzimek szerepe a biokémiai reakciókban?;Felgyorsítják a reakciókat;Lassítják a reakciókat;Semlegesítik a reakciókat
+b;Melyik szervünk a legnagyobb szervünk a testen?;Bőr;Tüdő;Máj
+b;Mi a kettős spirál szerkezetű molekula, amely a genetikai információt hordozza?;DNS;RNS;ATP
+b;Melyik állítás igaz az öröklődésre?;Az öröklődés a szülők genetikai információinak kombinációjából származik;Az öröklődés csak az anyai ágon következik be;Az öröklődés véletlenszerű folyamat
+b;Mi a fotoszintetizáló növények fő energiaforrása?;Napfény;Levegő;Víz
+b;Melyik szerv felelős a vér szűréséért és tisztításáért?;Máj;Vese;Lép
+b;Mi a szerepe a vérlemezkéknek a vérben?;Vérzéscsillapítás;Oxigénszállítás;Immunválasz
+b;Mit nevezünk evolúciónak a biológiában?;Az élőlények fokozatos változása az idő során;Az élőlények születése;Az élőlények pusztulása
+c;Mi a legnagyobb bolygó a Naprendszerünkben?;Jupiter;Mars;Venus
+c;Melyik csillagképben található a Nagy Göncölszekér?;Nagy Medve;Kis Medve;Orion
+c;Mi a neve a Naprendszerünk harmadik bolygójának?;Föld;Venus;Mars
+c;Hány holdja van a Földnek?;1;2;0
+c;Melyik évben történt az első emberi holdraszállás?;1969;1975;1961
+c;Mi a legfényesebb csillag az éjszakai égen?;Vénusz;Sirius;Mars
+c;Melyik égitest a Naprendszerünk legnagyobb törpebolygója?;Pluto;Eris;Haumea
+c;Milyen típusú csillag a VY Canis Majoris?;Vörös óriás;Fehér törpe;Kék óriás
+c;Melyik égitestet nevezzük "napközelinek"?;Merkúr;Vénusz;Mars
+c;Hány napig tart egy Marson körüli év?;687;365;512
+c;Mi az a kozmikus mikrohullámú háttérsugárzás?;Az Univerzum keletkezésekor kibocsátott sugárzás;Galaxisok közötti sugárzás;A Napból érkező mikrohullámú sugárzás
+c;Mi a legismertebb meteorzápor, amelyet évente láthatunk?;Perseidák;Geminidák;Lyridák
+c;Melyik égitestről származik a legtöbb meteorit a Földre?;Hold;Mars;Asteroidaöv
+c;Hány évig tart egy Neptunusz körüli év?;165;88;248
+c;Mi az a hármascsillag?;Olyan csillagok csoportja, amelyek közel vannak egymáshoz az égen;Olyan csillag, amely háromszor olyan fényes, mint a Nap;Olyan csillag, amely három egymástól független összetevőből áll
+c;Mi a Kuiper-öv?;Egy öv a Naprendszer külső részén, ahol törpebolygók és más kisebb égitestek találhatók;Egy öv a Naprendszer belső részén, ahol a kőzetes bolygók találhatók;Egy öv a Nap körül, ahol a legtöbb aszteroida található
+c;Melyik bolygó neve származik egy római háborús istennőről?;Mars;Vénusz;Jupiter
+c;Melyik csillagképben található a Halak csillagkép?;Déli Halmaz;Vízöntő;Bak
+c;Mi a neve a Naprendszerünk legkülső bolygójának?;Neptunusz;Uranusz;Szaturnusz
+c;Melyik égitest az első, amely keringett a Nap körül?;Merkúr;Vénusz;Mars
+c;Mi a neve a Naprendszerünk legnagyobb bolygójának?;Jupiter;Szaturnusz;Neptunusz
+c;Milyen típusú csillag a Proxima Centauri?;Vörös törpe;Kék óriás;Fehér törpe
+c;Melyik égitesten található a Szahara sivatag méretű kráter, a Hellas Basin?;Mars;Hold;Vénusz
+c;Mi a Kuiper-övben található két legismertebb törpebolygó neve?;Pluto és Eris;Haumea és Makemake;Ceres és Sedna
+c;Melyik évben fedezték fel a Naprendszerünk legnagyobb törpebolygóját, a Plutót?;1930;1945;1962
+c;Mi a neve a Naprendszerünk legnagyobb holdjának?;Ganymedes;Titan;Hold
+c;Melyik égitesten található a legnagyobb vulkán a Naprendszerben, az Olympus Mons?;Mars;Vénusz;Merkúr
+c;Melyik bolygó a legközelebb van a Földhöz méretét tekintve?;Vénusz;Mars;Merkúr
+c;Hány évig tart egy Uránusz körüli év?;84;365;165
+c;Melyik égitesten található a Naprendszerünk legnagyobb felszíni hőmérsékleti különbsége?;Vénusz;Mars;Merkúr
+c;Mi a két legismertebb holdja a Marsnak?;Phobos és Deimos;Io és Europa;Ganymedes és Callisto
+c;Melyik égitesten található a hatalmas, gyűrűszerű rendszer, a Cassini részecskékből álló gyűrűk?;Szaturnusz;Jupiter;Uranusz
+c;Melyik évben történt az első sikeres Mars-lendülés?;1976;1997;2003
+c;Mi a neve a Naprendszerünk legkisebb bolygójának?;Merkúr;Mars;Pluto
+c;Melyik égitesten található a leghosszabb és legmélyebb kanyon, a Valles Marineris?;Mars;Vénusz;Hold
+c;Milyen típusú csillag a Betelgeuse?;Vörös óriás;Kék óriás;Fehér törpe
+c;Melyik évben történt az első sikeres holdra szállás?;1969;1955;1975
+c;Mi a neve a Naprendszerünk második bolygójának?;Vénusz;Mars;Jupiter
+c;Melyik évben fedezték fel a Ceres törpebolygót?;1801;1901;2001
+c;Mi a neve a Naprendszerünk második legnagyobb bolygójának?;Szaturnusz;Neptunusz;Uranusz
+c;Milyen típusú csillag a Deneb?;Kék óriás;Vörös óriás;Fehér törpe
+c;Melyik évben történt az utolsó Apollo holdraszállás?;1972;1969;1975
+c;Mi a neve a Naprendszerünk harmadik legnagyobb bolygójának?;Szaturnusz;Neptunusz;Uranusz
+c;Melyik égitest a Naprendszerünk legforróbb bolygója?;Vénusz;Merkúr;Mars
+c;Hány évig tart egy Szaturnusz körüli év?;29;84;165
+c;Milyen típusú csillag a Antares?;Vörös óriás;Kék óriás;Fehér törpe
+c;Melyik évben fedezték fel az első törpebolygót, a Ceres-t?;1801;1901;2001
+c;Mi a legnagyobb törpebolygó a Naprendszerünkben?;Eris;Pluto;Haumea
+c;Melyik évben történt az első sikeres Mars-rover küldetés, a Spirit és Opportunity?;2004;1997;2012
+c;Mi a neve a Naprendszerünk legkisebb törpebolygójának?;Ceres;Eris;Haumea
+i;Ki írta a "Bűn és bűnhődés" című regényt?;Fjodor Dosztojevszkij;Lev Tolsztoj;Ivan Goncsarov
+i;Melyik művészeti ág az irodalom része?;Irodalom;Szobrászat;Képzőművészet
+i;Mi a fő témája a "Romeó és Júlia" tragédiának?;Szerelem;Politika;Háború
+i;Melyik irodalmi korszakban alkotott William Shakespeare?;Reneszánsz;Barokk;Romantika
+i;Ki a Nobel-díjas magyar írónő, aki "Az ajtó" című regényével vált ismertté?;Magda Szabó;Kertész Imre;Sándor Márai
+i;Melyik irodalmi műfajba sorolható a "Háború és béke" című regény?;Regény;Dráma;Kisregény
+i;Milyen műfajú az "Odüsszeia" és az "Iliász" című görög epikus művek?;Epika;Líra;Dráma
+i;Mi a fő témája Gabriel Garcia Márquez "Száz év magány" című regényének?;Magány;Szeretet;Történelem
+i;Ki írta a "Háború és béke" című regényt?;Lev Tolsztoj;Fjodor Dosztojevszkij;Ivan Goncsarov
+i;Melyik mű címe az alábbi: "Az elveszett idő nyomában"?;Árnyék nélkül;Az árnyékban;Az elveszett idő nyomában
+i;Melyik költő alkotta meg a "Tavaszi szél vizet áraszt" sorokat?;Petőfi Sándor;Arany János;Ady Endre
+i;Mi a fő témája George Orwell "1984" című regényének?;Totalitarizmus;Szerelmi történet;Fantasy
+i;Ki az írója a "Forrest Gump" című regénynek?;Winston Groom;John Grisham;Tom Clancy
+i;Melyik irodalmi korszak jellemzi a "Bánk bán" című magyar drámát?;Romantika;Barokk;Realizmus
+i;Melyik regényt írta Aldous Huxley, amelyben egy totalitárius jövőképet fest le?;Szép új világ;1984;A tűzgyűrű
+i;Ki a főszereplője J.D. Salinger "Zabhegyező" című regényének?;Holden Caulfield;Tom Sawyer;Atticus Finch
+i;Melyik regényt írta Jane Austen, amelyben Elizabeth Bennet a főszereplő?;Büszkeség és balítélet;Emma;Értelem és érzelem
+i;Ki a szerzője a "Vuk" című gyermekregénynek?;Fekete István;Csukás István;Móricz Zsigmond
+i;Mi a fő témája Antoine de Saint-Exupéry "A kis herceg" című regényének?;Barátság;Szeretet;Élet értelme
+i;Melyik regényt írta Emily Brontë, amely egy szenvedélyes, tragikus szerelmi történetet mesél el?;Üvöltő szelek;Jane Eyre;Az aranypolgár
+i;Ki alkotta meg az "Iliász" és az "Odüsszeia" című görög eposzokat?;Homéros;Hesiodos;Sztészichoros
+i;Melyik William Faulkner regényben követhetjük végig a Compson család történetét?;Az idők szalagja;Abszalom, Abszalom!;Az éj szörnyetege
+i;Melyik műfajba sorolható George Orwell "Állatfarm" című allegorikus regénye?;Allegória;Szatíra;Dráma
+i;Ki a szerzője a "Harry Potter" könyvsorozatnak?;J.K. Rowling;J.R.R. Tolkien;C.S. Lewis
+i;Melyik író alkotta meg a "Nyomorultak" című regényt?;Victor Hugo;Gustave Flaubert;Émile Zola
+i;Melyik költő írta a "János vitéz" és a "Tavaszi szél vizet áraszt" verseket?;Sándor Petőfi;József Attila;Ady Endre
+i;Mi a fő témája Milan Kundera "Lassú szakadék" című regényének?;Politika;Szerelem;Emigráció
+i;Ki az írója a "Háború és béke" című regénynek?;Lev Tolsztoj;Fjodor Dosztojevszkij;Ivan Goncsarov
+i;Melyik regényt írta José Saramago, amelyben a vakok járványa terjed?;Vak;Az Év könyve;Az evangélium a Jézus testrészéről
+i;Mi a fő témája Khaled Hosseini "Afgán napok" című regényének?;Háború;Család;Barátság
+i;Ki az írója a "Trisztán és Izolda" történetnek?;Gottfried von Strassburg;Thomas Mann;Wagner
+i;Melyik William Golding regényben követhetjük egy csoport fiú túlélési küzdelmét lakatlan szigeten?;Az évszázad regénye;A legyek Ura;Kívánságok szigete
+i;Melyik Jules Verne regényben vesznek részt Phileas Fogg és Passepartout egy világ körüli utazáson?;A Földgömb oda-vissza;80 nap alatt a Föld körül;Húszezer mérföld a tenger alatt
+i;Ki a főszereplője Franz Kafka "Az átváltozás" című novellájának?;Gregor Samsa;Raskolnyikov;Meursault
+i;Melyik regény főhőse Holden Caulfield, akit egy pszichiátriai intézetben hallgatunk meg?;Zabhegyező;Keserű méz;Franny és Zooey
+i;Ki alkotta meg a "Dante Isteni színjáték" című művet?;Dante Alighieri;Petrarca;Boccaccio
+i;Melyik könyv szereplője a lány, akit egy madár nevel fel a dzsungelben?;Mowgli;Tarzan;Dorothy
+i;Melyik regényt írta Ken Kesey, amely egy pszichiátriai kórházban játszódik?;Repül a daru;A szállító;A Szállító
+i;Ki a főszereplője John Steinbeck "Egerek és emberek" című regényének?;George Milton;Tom Joad;Lennie Small
+i;Melyik Nobel-díjas írónő írta a "Szelíd vadjátékot"?;Alice Munro;Doris Lessing;Toni Morrison
+i;Ki az írója a "Az én Afrikám" című regénynek?;Karen Blixen;Isak Dinesen;J.M. Coetzee
+i;Melyik művészeti ág kap hangsúlyt Marcel Proust "Az elveszett idő nyomában" című regényében?;Zene;Festészet;Írás
+i;Ki alkotta meg a "Nagy Gatsby" című regényt?;F. Scott Fitzgerald;Ernest Hemingway;John Steinbeck
+i;Melyik költő alkotta meg a "Les Misérables" című regényt?;Victor Hugo;Gustave Flaubert;Émile Zola
+i;Ki az írója a "Brave New World" című sci-fi regénynek?;Aldous Huxley;George Orwell;Ray Bradbury
+i;Melyik regényt írta Haruki Murakami, amelyben egy cica beszél?;Kafka a tengerparton;Norwegian Wood;1Q84
+i;Ki az írója a "A sötét torony" című fantasy sorozatnak?;Stephen King;J.K. Rowling;George R.R. Martin
+i;Melyik krimiíró alkotta meg a "Sherlock Holmes" detektívtörténeteket?;Arthur Conan Doyle;Agatha Christie;Dashiell Hammett
+i;Mi a fő témája Ayn Rand "Atlasz Shrugged" című regényének?;Individualizmus;Kommunizmus;Szocializmus
+i;Ki a főszereplője Gabriel García Márquez "Szerelem a kolera idején" című regényének?;Fermina Daza;Florentino Ariza;Juvenal Urbino

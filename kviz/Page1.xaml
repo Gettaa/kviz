@@ -42,8 +42,8 @@
                 </Grid.RowDefinitions>
                 <Rectangle x:Name="modvalto" Stroke="Black" Margin="5,5,5,5" Grid.RowSpan="3" Fill="#FF7967BF"/>
                 <RadioButton x:Name="biobutton" Content="Biológia" HorizontalAlignment="Left" Margin="18,0,0,0" VerticalAlignment="Center" Checked="biobutton_Checked" FontSize="16" IsChecked="True"/>
-                <RadioButton x:Name="starbutton" Content="Csillagászat" HorizontalAlignment="Left" Margin="18,0,0,0" Grid.Row="1" VerticalAlignment="Center" Checked="methbutton_Checked" FontSize="16"/>
-                <RadioButton x:Name="infobutton" Content="Informatika" HorizontalAlignment="Left" Margin="18,0,0,0" Grid.Row="2" VerticalAlignment="Center" FontSize="16" Checked="infobutton_Checked"/>
+                <RadioButton x:Name="csillagbutton" Content="Csillagászat" HorizontalAlignment="Left" Margin="18,0,0,0" Grid.Row="1" VerticalAlignment="Center" Checked="csillagbutton_Checked" FontSize="16"/>
+                <RadioButton x:Name="irodalombutton" Content="Irodalom" HorizontalAlignment="Left" Margin="18,0,0,0" Grid.Row="2" VerticalAlignment="Center" FontSize="16" Checked="irodalombutton_Checked"/>
             </Grid>
             <Button x:Name="nextbutton" Content="Játék indítása" Grid.Row="6" RenderTransformOrigin="0.546,0.683" Height="37" HorizontalAlignment="Center" VerticalAlignment="Center" Width="108" Click="nextbutton_Click" FontSize="16"/>
             <Grid>

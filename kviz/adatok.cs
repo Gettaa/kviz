@@ -15,20 +15,21 @@ namespace kviz {
 	public class Kerdes {
 
 		public char Kategoria { get; private set; }
-		public int Helyes { get; private set; }
 		public string Szoveg { get; private set; }
-		public string Valasz1 { get; private set; }
-		public string Valasz2 { get; private set; }
-		public string Valasz3 { get; private set; }
+		public string Helyes { get; private set; }
+		public string Rossz1 { get; private set; }
+		public string Rossz2 { get; private set; }
+		public string[] RandValasz;
 
 		public Kerdes(string sor) {
 			string[] cuccok = sor.Split(';');
 			Kategoria = cuccok[0].First();
-			Helyes = int.Parse(cuccok[1]);
-			Szoveg = cuccok[2];
-			Valasz1 = cuccok[3];
-			Valasz2 = cuccok[4];
-			Valasz3 = cuccok[5];
+			Szoveg = cuccok[1];
+			Helyes = cuccok[2];
+			Rossz1 = cuccok[3];
+			Rossz2 = cuccok[4];
+			RandValasz = new string[3] {Helyes, Rossz1, Rossz2};
+			RandValasz = RandValasz.OrderBy(x => Guid.NewGuid()).ToArray();
 		}
 	}
 
@@ -52,6 +53,16 @@ namespace kviz {
 			C_Helyes = int.Parse(adatok[4]);
 			I_Osszes = int.Parse(adatok[5]);
 			I_Helyes = int.Parse(adatok[6]);
+		}
+
+		public Jatekos(string nev, bool b) {
+			Nev = nev;
+			B_Osszes = 0;
+			B_Helyes = 0;
+			C_Osszes = 0;
+			C_Helyes = 0;
+			I_Osszes = 0;
+			I_Helyes = 0;
 		}
 	}
 
