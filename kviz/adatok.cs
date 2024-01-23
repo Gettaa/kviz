@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.IO;
 using System.Text;
+using System.Security.Cryptography.X509Certificates;
 
 
 namespace kviz {
@@ -15,21 +16,31 @@ namespace kviz {
 	public class Kerdes {
 
 		public char Kategoria { get; private set; }
+		public bool TobbValasz { get; private set; }
 		public string Szoveg { get; private set; }
-		public string Helyes { get; private set; }
-		public string Rossz1 { get; private set; }
-		public string Rossz2 { get; private set; }
-		public string[] RandValasz;
+		public string Valasz1 { get; private set; } // mindig helyes
+		public string Valasz2 { get; private set; } // if TobbValasz = true akkor helyes else hamis
+		public string Valasz3 { get; private set; } // mindig hamis
+		public string[] KevertValaszok { get; private set; }
 
 		public Kerdes(string sor) {
 			string[] cuccok = sor.Split(';');
 			Kategoria = cuccok[0].First();
-			Szoveg = cuccok[1];
-			Helyes = cuccok[2];
-			Rossz1 = cuccok[3];
-			Rossz2 = cuccok[4];
-			RandValasz = new string[3] {Helyes, Rossz1, Rossz2};
-			RandValasz = RandValasz.OrderBy(x => Guid.NewGuid()).ToArray();
+			TobbValasz = bool.Parse(cuccok[1]);
+			Szoveg = cuccok[2];
+			Valasz1 = cuccok[3];
+			Valasz2 = cuccok[4];
+			Valasz3 = cuccok[5];
+			KevertValaszok = new string[] { Valasz1, Valasz2, Valasz3 }.OrderBy(x => Guid.NewGuid()).ToArray();
+		}
+
+		public bool HelyesTipp(string input) {
+			string lv1 = Valasz1.ToLower();
+			string lv2 = Valasz2.ToLower();
+			input = input.ToLower();
+			if (TobbValasz && (input == lv1 || input == lv2)) return true;
+			if (!TobbValasz && input == lv1) return true;
+			else return false;
 		}
 	}
 

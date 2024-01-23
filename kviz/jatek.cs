@@ -10,9 +10,11 @@ using System.Text;
 
 namespace kviz {
 	public class Jatek {
+
 		public Jatekos Embi {  get; private set; }
 		public char Temakor { get; private set; }
 		public Kerdes[] Kerdesek { get; private set; }
+
 		public Jatek(Jatekos j, char c) {
 			Embi = j;
 			Temakor = c;

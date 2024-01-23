@@ -51,7 +51,7 @@ namespace kviz
 				Adatok.Jatekosok.Add(new Jatekos("Guest", true));
 				ValasztottJatekos = Adatok.Jatekosok.Where(j => j.Nev == "Guest").First();
 			}
-        }
+		}
 
 		private void langbutton_Click(object sender, RoutedEventArgs e) {
 			switch (lang) {
