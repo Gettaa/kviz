@@ -26,6 +26,7 @@ namespace kviz
 		public char ValasztottKat = 'b';
 		public Jatekos ValasztottJatekos;
 		public Page1() {
+			selectPlayer();
 			InitializeComponent();
 		}
 
@@ -42,12 +43,20 @@ namespace kviz
 		}
 
 		private void nextbutton_Click(object sender, RoutedEventArgs e) {
+			selectPlayer();
+			//Page2 page2 = new Page2();
+			//vaszon.Navigate(page2);
+
+		}
+
+		private void selectPlayer() {
 			string nev = playerchooser.Text;
 			if (nev.Count() > 0) {
 				var a = Adatok.Jatekosok.Where(j => j.Nev == nev).Select(j => j);
 				if (a.Count() == 0) Adatok.Jatekosok.Add(new Jatekos(nev, true));
 				ValasztottJatekos = Adatok.Jatekosok.Where(j => j.Nev == nev).First();
-			} else {
+			}
+			else {
 				Adatok.Jatekosok.Add(new Jatekos("Guest", true));
 				ValasztottJatekos = Adatok.Jatekosok.Where(j => j.Nev == "Guest").First();
 			}
