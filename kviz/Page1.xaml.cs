@@ -44,8 +44,8 @@ namespace kviz
 
 		private void nextbutton_Click(object sender, RoutedEventArgs e) {
 			selectPlayer();
-			//Page2 page2 = new Page2();
-			//vaszon.Navigate(page2);
+			Page2 page2 = new Page2();
+			NavigationService.Navigate(page2);
 
 		}
 
