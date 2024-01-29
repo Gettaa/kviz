@@ -50,7 +50,7 @@ namespace kviz
 		}
 
 		private void selectPlayer() {
-			string nev = playerchooser.Text;
+			string nev = "Guest";
 			if (nev.Count() > 0) {
 				var a = Adatok.Jatekosok.Where(j => j.Nev == nev).Select(j => j);
 				if (a.Count() == 0) Adatok.Jatekosok.Add(new Jatekos(nev, true));
