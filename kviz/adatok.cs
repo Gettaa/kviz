@@ -75,6 +75,16 @@ namespace kviz {
 			I_Osszes = 0;
 			I_Helyes = 0;
 		}
+
+		public Jatekos() {
+			Nev = "Guest";
+			B_Osszes = 0;
+			B_Helyes = 0;
+			C_Osszes = 0;
+			C_Helyes = 0;
+			I_Osszes = 0;
+			I_Helyes = 0;
+		}
 	}
 
 	public static class Adatok {
@@ -91,7 +101,8 @@ namespace kviz {
 
 		public static void Ment() {
 			List<string> irandoJatekosok = new List<string>();
-			Jatekosok.ForEach(s => irandoJatekosok.Add(
+			Jatekosok.Where(s => s.Nev != "Guest").ToList()
+				.ForEach(s => irandoJatekosok.Add(
 				$"{s.Nev};{s.B_Osszes};{s.B_Helyes};{s.C_Osszes};{s.C_Helyes};{s.I_Osszes};{s.I_Helyes}"
 			));
 			File.WriteAllLines("jatekosok.txt", irandoJatekosok);

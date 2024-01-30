@@ -23,8 +23,8 @@ namespace kviz
 	public partial class Page1 : Page
 	{
 		public string lang = "hu";
-		public char ValasztottKat = 'b';
-		public Jatekos ValasztottJatekos;
+		public static char ValasztottKat = 'b';
+		public static Jatekos ValasztottJatekos = new();
 		public Page1() {
 			selectPlayer();
 			InitializeComponent();
@@ -50,15 +50,13 @@ namespace kviz
 		}
 
 		private void selectPlayer() {
-			string nev = "Guest";
+			string nev = "teszt";
 			if (nev.Count() > 0) {
 				var a = Adatok.Jatekosok.Where(j => j.Nev == nev).Select(j => j);
 				if (a.Count() == 0) Adatok.Jatekosok.Add(new Jatekos(nev, true));
 				ValasztottJatekos = Adatok.Jatekosok.Where(j => j.Nev == nev).First();
-			}
-			else {
-				Adatok.Jatekosok.Add(new Jatekos("Guest", true));
-				ValasztottJatekos = Adatok.Jatekosok.Where(j => j.Nev == "Guest").First();
+			} else {
+				ValasztottJatekos = new();
 			}
 		}
 
