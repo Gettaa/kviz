@@ -1,0 +1,145 @@
+b;false;Was ist der Hauptzweck der Photosynthese?;Energieproduktion in Pflanzen;Sauerstoffproduktion;Freisetzung von Wasserdampf
+b;false;Welches Organ ist für die Regulation des Blutzuckerspiegels verantwortlich?;Bauchspeicheldrüse;Leber;Herz
+b;false;Was ist die Hauptrolle von DNA in Zellen?;Speicherung genetischer Informationen;Energieproduktion;Wasserregulierung
+b;false;Was ist die Hauptfunktion der Mitochondrien?;Energieproduktion;Proteinsynthese;Zellteilung
+b;false;Wie nennt man den Abbau von Nährstoffen, die in Zellen eintreten?;Glykolyse;Photosynthese;Zitronensäurezyklus
+b;false;In welcher Pflanzenzelle befindet sich der grüne Farbstoff?;Chloroplast;Ribosom;Lysosom
+b;false;Aus welchen Zellen besteht das Blut?;Rote Blutkörperchen, weiße Blutkörperchen, Blutplättchen;Muskelzellen;Nervenzellen
+b;false;Was ist der Unterschied zwischen kontrahierenden und entspannenden Muskelzellen?;Kontrahierende Muskeln verkürzen sich, entspannende verlängern sich;Kontrahierende Muskeln sind dicker, entspannende sind dünner;Es gibt keinen Unterschied zwischen ihnen
+b;false;Was ist die Rolle der Bowman-Kapsel in der Niere?;Harnbildung;Regulierung des Blutdrucks;Verdauung
+b;false;Welche Art von Beziehung besteht zwischen Organismen und Ökosystemen?;Interaktion;Vertrag;Beratung
+b;false;Welches Pflanzenorgan ist für die Aufnahme von Wasser und Nährstoffen verantwortlich?;Wurzel;Blatt;Spross
+b;false;Was ist die Rolle von Chromosomen während der Zellteilung?;Vererbung genetischer Informationen;Energieproduktion;Schutz vor Viren
+b;false;Aus welchen organischen Molekülen bestehen Proteine?;Aminosäuren;Fettsäuren;Kohlenhydrate
+b;false;Was ist der Unterschied zwischen eukaryotischen und prokaryotischen Zellen?;Eukaryotische Zellen haben einen Zellkern, prokaryotische Zellen nicht;Eukaryotische Zellen sind kleiner als prokaryotische Zellen;Es gibt keinen Unterschied zwischen ihnen
+b;false;Was ist die Rolle von Enzymen in biochemischen Reaktionen?;Sie beschleunigen Reaktionen;Sie verlangsamen Reaktionen;Sie neutralisieren Reaktionen
+b;false;Welches Organ ist das größte in unserem Körper?;Haut;Lungen;Leber
+b;false;Was ist das Molekül mit der Doppelhelixstruktur, das genetische Informationen trägt?;DNA;RNA;ATP
+b;false;Welche Aussage über Vererbung ist wahr?;Vererbung erfolgt durch die Kombination der genetischen Informationen der Eltern;Vererbung erfolgt nur über die mütterliche Linie;Vererbung ist ein zufälliger Prozess
+b;false;Was ist die Hauptenergiequelle für photosynthetisierende Pflanzen?;Sonnenlicht;Luft;Wasser
+b;false;Welches Organ ist für die Filtrierung und Reinigung des Blutes verantwortlich?;Leber;Niere;Milz
+b;false;Welches organische Molekül dient als langfristige Energiespeicherung im Körper?;Fett;Protein;Kohlenhydrat
+b;false;Was ist die Rolle des Zytoplasmas in Zellen?;Standort von Zellorganellen und Unterstützung;Speicherung genetischer Informationen;Energieproduktion
+b;false;Welches Organ ist für die Produktion und Ausscheidung von Hormonen verantwortlich?;Endokrine Drüsen;Niere;Herz
+b;false;Was ist die Rolle von Blutplättchen im Blut?;Blutgerinnung;Sauerstofftransport;Immunantwort
+b;false;Wie bezeichnet man den allmählichen Wandel von Lebewesen im Laufe der Zeit in der Biologie?;Evolution;Die Geburt von Organismen;Das Aussterben von Organismen
+b;false;Welche Aussage über Zellteilung ist wahr?;Bei der Zellteilung teilt sich die Zelle in zwei identische Tochterzellen;Zellteilung findet nur in Pflanzenzellen statt;Zellteilung erfolgt nur, wenn die Zelle zu groß wird
+b;false;Was ist die Rolle des Immunsystems im Körper?;Schutz vor Viren und Bakterien;Verdauung von Nahrungsmitteln;Regulierung des Blutdrucks
+b;false;Welches Organ ist für den Transport von sauerstoffreichem Blut im Körper verantwortlich?;Lungen;Herz;Leber
+b;false;Was ist die Rolle von Chlorophyll bei der Photosynthese?;Absorption von Sonnenenergie und Einleitung photosynthetischer Prozesse;Absorption von Wasser durch die Wurzeln;Speicherung von Kohlendioxid aus der Luft
+b;false;Was ist die Rolle roter Blutkörperchen im Körper?;Sauerstofftransport;Verdauung von Nahrungsmitteln;Immunantwort
+b;false;Welches Organ ist für die Regulation des Blutzuckerspiegels verantwortlich?;Bauchspeicheldrüse;Leber;Herz
+b;false;Was ist die Hauptfunktion von Mitochondrien?;Energieproduktion;Proteinsynthese;Zellteilung
+b;false;Was bezeichnet man als den Abbau von Nährstoffen, die in Zellen eintreten?;Glykolyse;Photosynthese;Zitronensäurezyklus
+b;false;In welcher Pflanzenzelle befindet sich der grüne Farbstoff?;Chloroplast;Ribosom;Lysosom
+b;false;Aus welchen Zellen besteht das Blut?;Rote Blutkörperchen, weiße Blutkörperchen, Blutplättchen;Muskelzellen;Nervenzellen
+b;false;Was ist der Unterschied zwischen kontrahierenden und entspannenden Muskelzellen?;Kontrahierende Muskeln verkürzen sich, entspannende verlängern sich;Kontrahierende Muskeln sind dicker, entspannende sind dünner;Es gibt keinen Unterschied zwischen ihnen
+b;false;Was ist die Rolle der Nierenkörperchen in der Niere?;Harnbildung;Regulierung des Blutdrucks;Verdauung
+b;false;Welche Art von Beziehung besteht zwischen Organismen und Ökosystemen?;Interaktion;Vertrag;Beratung
+b;false;Welches Pflanzenorgan ist für die Aufnahme von Wasser und Nährstoffen verantwortlich?;Wurzel;Blatt;Spross
+b;false;Was ist die Rolle von Chromosomen während der Zellteilung?;Vererbung genetischer Informationen;Energieproduktion;Schutz vor Viren
+b;false;Aus welchen organischen Molekülen bestehen Proteine?;Aminosäuren;Fettsäuren;Kohlenhydrate
+b;false;Was ist der Unterschied zwischen eukaryotischen und prokaryotischen Zellen?;Eukaryotische Zellen haben einen Zellkern, prokaryotische Zellen nicht;Eukaryotische Zellen sind kleiner als prokaryotische Zellen;Es gibt keinen Unterschied zwischen ihnen
+b;false;Was ist die Rolle von Enzymen in biochemischen Reaktionen?;Sie beschleunigen Reaktionen;Sie verlangsamen Reaktionen;Sie neutralisieren Reaktionen
+b;false;Welches Organ ist das größte im menschlichen Körper?;Haut;Lunge;Leber
+b;false;Was ist das Doppelhelixmolekül, das genetische Informationen trägt?;DNA;RNA;ATP
+b;false;Welche Aussage über Vererbung ist wahr?;Vererbung erfolgt durch die Kombination genetischer Informationen der Eltern;Vererbung erfolgt nur über die mütterliche Linie;Vererbung ist ein zufälliger Prozess
+b;false;Was ist die Hauptenergiequelle für photosynthetisierende Pflanzen?;Sonnenlicht;Luft;Wasser
+b;false;Welches Organ ist für die Filtrierung und Reinigung des Blutes verantwortlich?;Leber;Niere;Milz
+b;false;Was ist die Rolle von Blutplättchen im Blut?;Blutgerinnung;Sauerstofftransport;Immunantwort
+b;false;Was bezeichnet man in der Biologie als Evolution?;Die allmähliche Veränderung von Lebewesen im Laufe der Zeit;Die Geburt von Lebewesen;Das Aussterben von Lebewesen
+b;true;Welches Organsystem ist für die Stoffwechselregulation im menschlichen Körper verantwortlich?;Endokrines System;Verdauungssystem;Nervensystem
+c;false;Was ist der größte Planet in unserem Sonnensystem?;Jupiter;Mars;Venus
+c;false;In welchem Sternbild befindet sich der Große Wagen?;Großer Bär;Kleiner Bär;Orion
+c;false;Wie heißt der dritte Planet in unserem Sonnensystem?;Erde;Venus;Mars
+c;false;Wie viele Monde hat die Erde?;1;2;0
+c;false;In welchem Jahr fand die erste bemannte Mondlandung statt?;1969;1975;1961
+c;false;Was ist der hellste Stern am Nachthimmel?;Sirius;Venus;Mars
+c;false;Welche Art von Stern ist VY Canis Majoris?;Roter Überriesen;Weißer Zwerg;Blauer Riese
+c;false;Welchem Himmelskörper wird als "der Morgenstern" bezeichnet?;Venus;Merkur;Mars
+c;false;Wie lange dauert ein Jahr auf dem Mars?;687 Tage;365 Tage;512 Tage
+c;false;Was ist die kosmische Hintergrundstrahlung?;Strahlung, die bei der Entstehung des Universums abgegeben wird;Strahlung zwischen Galaxien;Mikrowellenstrahlung von der Sonne
+c;false;Was ist der bekannteste jährlich auftretende Meteoritenschauer?;Perseiden;Geminiden;Lyriden
+c;false;Von welchem Himmelskörper stammen die meisten Meteoriten, die auf die Erde fallen?;Asteroidengürtel;Mars;Mond
+c;false;Wie lange dauert ein Jahr auf Neptun?;165 Jahre;88 Jahre;248 Jahre
+c;false;Was ist ein Dreifachstern?;Eine Gruppe von Sternen, die sich nahe am Himmel befinden;Ein Stern, der dreimal so hell ist wie die Sonne;Ein Stern, der aus drei unabhängigen Komponenten besteht
+c;false;Was ist der Kuipergürtel?;Eine Region im äußeren Sonnensystem, in der Zwergplaneten und andere kleine Himmelskörper zu finden sind;Eine Region im inneren Sonnensystem, in der sich die Gesteinsplaneten befinden;Ein Gürtel um die Sonne, in dem sich die meisten Asteroiden befinden
+c;false;Welcher Planet ist nach einer römischen Kriegsgöttin benannt?;Mars;Venus;Jupiter
+c;false;In welchem Sternbild befindet sich das Fische-Sternbild?;Fische;Wassermann;Steinbock
+c;false;Wie heißt der äußerste Planet in unserem Sonnensystem?;Neptun;Uranus;Saturn
+c;false;Welchem Himmelskörper gelang die erste Umrundung der Sonne?;Merkur;Venus;Mars
+c;false;Wie heißt der größte Planet in unserem Sonnensystem?;Jupiter;Saturn;Neptun
+c;false;Welche Art von Stern ist Proxima Centauri?;Roter Zwerg;Blauer Riese;Weißer Zwerg
+c;false;Auf welchem Himmelskörper befindet sich das Hellas-Becken, ein Krater von der Größe der Sahara?;Mars;Mond;Venus
+c;false;Wie heißen die beiden bekanntesten Zwergplaneten im Kuipergürtel?;Pluto und Eris;Haumea und Makemake;Ceres und Sedna
+c;false;In welchem Jahr wurde Pluto, der größte Zwergplanet in unserem Sonnensystem, entdeckt?;1930;1945;1962
+c;false;Wie heißt der größte Mond in unserem Sonnensystem?;Ganymed;Titan;Mond
+c;false;Auf welchem Himmelskörper befindet sich der größte Vulkan im Sonnensystem, Olympus Mons?;Mars;Venus;Merkur
+c;false;Welcher Planet ist in Bezug auf die Größe am nächsten zur Erde?;Venus;Mars;Merkur
+c;false;Wie lange dauert ein Jahr auf Uranus?;84 Jahre;365 Jahre;165 Jahre
+c;false;Auf welchem Himmelskörper ist der größte Temperaturunterschied auf der Oberfläche unseres Sonnensystems zu finden?;Venus;Mars;Merkur
+c;false;Welche sind die beiden bekanntesten Monde des Mars?;Phobos und Deimos;Io und Europa;Ganymed und Callisto
+c;false;Auf welchem Himmelskörper befindet sich das umfangreiche Ringsystem aus Cassini-Partikeln, die Cassini-Teilung?;Saturn;Jupiter;Uranus
+c;false;In welchem Jahr fand die erste erfolgreiche Marslandung statt?;1976;1997;2003
+c;false;Wie heißt der kleinste Planet in unserem Sonnensystem?;Merkur;Mars;Pluto
+c;false;Auf welchem Himmelskörper befindet sich der längste und tiefste Canyon, Valles Marineris?;Mars;Venus;Mond
+c;false;Was für ein Stern ist Betelgeuse?;Roter Überriesen;Blauer Riese;Weißer Zwerg
+c;false;In welchem Jahr fand die erste erfolgreiche Mondlandung statt?;1969;1955;1975
+c;false;Wie heißt der zweite Planet in unserem Sonnensystem?;Venus;Mars;Jupiter
+c;false;In welchem Jahr wurde der Zwergplanet Ceres entdeckt?;1801;1901;2001
+c;false;Wie heißt der zweitgrößte Planet in unserem Sonnensystem?;Saturn;Neptun;Uranus
+c;false;Was für ein Stern ist Deneb?;Blauer Riese;Roter Riese;Weißer Zwerg
+c;false;In welchem Jahr fand die letzte Apollo-Mondlandung statt?;1972;1969;1975
+c;false;Wie heißt der drittgrößte Planet in unserem Sonnensystem?;Saturn;Neptun;Uranus
+c;false;Welcher Himmelskörper ist der heißeste Planet in unserem Sonnensystem?;Venus;Merkur;Mars
+c;false;Wie lange dauert ein Jahr auf Saturn?;29 Jahre;84 Jahre;165 Jahre
+c;false;Was für ein Stern ist Antares?;Roter Überriesen;Blauer Riese;Weißer Zwerg
+c;false;In welchem Jahr wurde der erste Zwergplanet, Ceres, entdeckt?;1801;1901;2001
+c;false;Was ist der größte Zwergplanet in unserem Sonnensystem?;Eris;Pluto;Haumea
+c;false;In welchem Jahr fand die erste erfolgreiche Mars-Rover-Mission, Spirit und Opportunity, statt?;2004;1997;2012
+c;false;Wie heißt ein Lichtjahr, und wofür verwenden Astronomen es?;Ein Lichtjahr ist die Strecke, die Licht in einem Vakuum in einem Jahr zurücklegt;Astronomen verwenden das Lichtjahr (aufgrund seiner Größenordnung), um Entfernungen zwischen Himmelskörpern zu messen;Ein Lichtjahr ist die Menge an Licht, die Sterne in einem Jahr aussenden
+i;false;Wer schrieb den Roman "Schuld und Sühne"?;Fjodor Dostojewski;Leo Tolstoi;Iwan Gontscharow
+i;false;Welche Kunstgattung ist Teil der Literatur?;Literatur;Bildhauerei;Bildende Kunst
+i;false;Was ist das Hauptthema der Tragödie "Romeo und Julia"?;Liebe;Politik;Krieg
+i;false;In welcher literarischen Epoche schuf William Shakespeare seine Werke?;Renaissance;Barock;Romantik
+i;false;Wer ist der mit dem Nobelpreis ausgezeichnete ungarische Autor, bekannt für den Roman "Die Tür"?;Magda Szabó;Imre Kertész;Sándor Márai
+i;false;Zu welchem literarischen Genre gehört der Roman "Krieg und Frieden"?;Roman;Drama;Novelle
+i;false;Welchem literarischen Genre gehören die griechischen Epen "Odyssee" und "Ilias" an?;Epos;Lyrik;Drama
+i;false;Was ist das Hauptthema des Romans "Hundert Jahre Einsamkeit" von Gabriel García Márquez?;Einsamkeit;Liebe;Geschichte
+i;false;Wer schrieb den Roman "Krieg und Frieden"?;Leo Tolstoi;Fjodor Dostojewski;Iwan Gontscharow
+i;false;Wie lautet der Titel des Werks: "Auf der Suche nach der verlorenen Zeit"?;Ohne Schatten;Im Schatten;Auf der Suche nach der verlorenen Zeit
+i;false;Welcher Dichter verfasste die Verse "Der Frühlingswind bringt Wasser hervor"?;Sándor Petőfi;János Arany;Endre Ady
+i;false;Was ist das Hauptthema von George Orwells Roman "1984"?;Totalitarismus;Liebesgeschichte;Fantasie
+i;false;Wer ist der Autor des Romans "Forrest Gump"?;Winston Groom;John Grisham;Tom Clancy
+i;false;Welche literarische Epoche kennzeichnet das ungarische Drama "Bánk Bán"?;Romantik;Barock;Realismus
+i;false;Welchen Roman schrieb Aldous Huxley, der eine totalitäre Zukunftsvision darstellt?;Schöne neue Welt;1984;Der Feuerring
+i;false;Wer ist der Protagonist des Romans "Der Fänger im Roggen" von J.D. Salinger?;Holden Caulfield;Tom Sawyer;Atticus Finch
+i;false;Welcher ungarische Schriftsteller ist bekannt für seine Romane "Sterne von Eger" und "Eclipse of the Crescent Moon"?;Géza Gárdonyi;Mór Jókai;Péter Hajnóczy
+i;false;Welcher Dichter verfasste das berühmte Gedicht "Die Sonne geht auf"?;Sándor Petőfi;Attila József;Endre Ady
+i;false;Welches literarische Genre ist die Tragödie?;Drama;Novelle;Roman
+i;false;Welchem literarischen Genre gehört das Werk "Faust" von Johann Wolfgang von Goethe an?;Drama;Roman;Novelle
+i;false;Was ist das Hauptthema von Franz Kafkas Roman "Die Verwandlung"?;Isolation;Metamorphose;Liebe
+i;false;Welcher ungarische Schriftsteller ist bekannt für seine Werke "Kata Bethlen" und "Vörös Rébék"?;Mór Jókai;Géza Gárdonyi;Kálmán Mikszáth
+i;false;Wer schrieb den Roman "Der große Gatsby"?;F. Scott Fitzgerald;Ernest Hemingway;Mark Twain
+i;false;Welche literarische Epoche kennzeichnet das Werk "Faust" von Johann Wolfgang von Goethe?;Sturm und Drang;Klassik;Romantik
+i;false;Was ist das Hauptthema des Romans "Stolz und Vorurteil" von Jane Austen?;Liebe;Gesellschaft;Politik
+i;false;Wer schrieb den Roman "Anna Karenina"?;Leo Tolstoi;Fjodor Dostojewski;Anton Tschechow
+i;false;Was ist das Hauptthema von Arthur Millers Drama "Tod eines Handlungsreisenden"?;Der amerikanische Traum;Familienbeziehungen;Politik
+i;false;Welchem literarischen Genre gehört die Novelle "Der alte Mann und das Meer" von Ernest Hemingway an?;Novelle;Roman;Drama
+i;false;Was ist das Hauptthema des Romans "1984" von George Orwell?;Totalitarismus;Liebe;Fantasie
+i;false;Welcher ungarische Schriftsteller ist bekannt für sein Werk "Az ember tragédiája"?;Imre Madách;Sándor Petőfi;Attila József
+i;false;Wer schrieb den Roman "Der Hobbit"?;J.R.R. Tolkien;C.S. Lewis;J.K. Rowling
+i;false;Welchem literarischen Genre gehört das Werk "Der Prozess" von Franz Kafka an?;Roman;Novelle;Drama
+i;false;Was ist das Hauptthema des Dramas "Macbeth" von William Shakespeare?;Ambition;Liebe;Politik
+i;false;Wer ist der Autor des Romans "Der Steppenwolf"?;Hermann Hesse;Thomas Mann;Franz Kafka
+i;false;Welches literarische Genre kennzeichnet das Werk "Die drei Musketiere" von Alexandre Dumas?;Roman;Abenteuerroman;Historischer Roman
+i;false;Was ist das Hauptthema des Romans "Die Elenden" von Victor Hugo?;Soziale Gerechtigkeit;Liebe;Politik
+i;false;Welchem literarischen Genre gehört das Werk "Moby-Dick" von Herman Melville an?;Roman;Abenteuerroman;Historischer Roman
+i;false;Wer schrieb den Roman "Der Graf von Monte Christo"?;Alexandre Dumas;Victor Hugo;Gustave Flaubert
+i;false;Was ist das Hauptthema des Romans "Krieg und Frieden" von Leo Tolstoi?;Krieg;Frieden;Liebe
+i;false;Welchem literarischen Genre gehört das Werk "Der große Gatsby" von F. Scott Fitzgerald an?;Roman;Drama;Novelle
+i;false;Was ist das Hauptthema des Romans "To Kill a Mockingbird" von Harper Lee?;Rassismus;Familienbeziehungen;Abenteuer
+i;false;Wer schrieb den Roman "Frankenstein"?;Mary Shelley;Bram Stoker;H.P. Lovecraft
+i;false;Welchem literarischen Genre gehört das Werk "Die Abenteuer des Huckleberry Finn" von Mark Twain an?;Roman;Abenteuerroman;Historischer Roman
+i;false;Was ist das Hauptthema des Dramas "Romeo und Julia" von William Shakespeare?;Liebe;Politik;Krieg
+i;false;Welcher ungarische Schriftsteller ist bekannt für sein Werk "A Pál utcai fiúk"?;Ferenc Molnár;István Fekete;Kálmán Mikszáth

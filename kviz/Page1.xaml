@@ -20,7 +20,7 @@
                 <RowDefinition Height="130*"/>
                 <RowDefinition Height="47*"/>
             </Grid.RowDefinitions>
-            <ComboBox x:Name="playerchooser" Grid.Row="1" RenderTransformOrigin="0.5,0.5" Margin="8,5,8,5" IsEditable="True" FontSize="16">
+            <ComboBox x:Name="playerchooser" Grid.Row="1" RenderTransformOrigin="0.5,0.5" Margin="8,5,8,5" IsEditable="True" FontSize="16" SelectionChanged="playerchooser_SelectionChanged">
                 <ComboBox.RenderTransform>
                     <TransformGroup>
                         <ScaleTransform/>
