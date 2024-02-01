@@ -1,0 +1,152 @@
+b;false;What is the main purpose of photosynthesis?;Energy production in plants;Oxygen production;Water vapor release
+b;false;Which organ is responsible for regulating blood sugar levels?;Pancreas;Liver;Heart
+b;false;What is the main role of DNA in cells?;Storing genetic information;Energy production;Water regulation
+b;false;What is the main function of mitochondria?;Energy production;Protein synthesis;Cell division
+b;false;What is the breakdown of nutrients entering cells called?;Glycolysis;Photosynthesis;Citric acid cycle
+b;false;In which plant cell is the green pigment found?;Chloroplast;Ribosome;Lysosome
+b;false;What types of cells make up the blood?;Red blood cells, white blood cells, platelets;Muscle cells;Nerve cells
+b;false;What is the difference between contracting and relaxing muscle cells?;Contracting muscles shorten, relaxing ones elongate;Contracting muscles are thicker, relaxing ones are thinner;There is no difference between them
+b;false;What is the role of the Bowman's capsule in the kidney?;Urine formation;Regulation of blood pressure;Digestion
+b;false;What type of relationship exists between organisms and ecosystems?;Interaction;Contract;Consultation
+b;false;Which plant organ is responsible for absorbing water and nutrients?;Root;Leaf;Shoot
+b;false;What is the role of chromosomes during cell division?;Inheritance of genetic information;Energy production;Protection against viruses
+b;false;What type of organic molecules make up proteins?;Amino acids;Fatty acids;Carbohydrates
+b;false;What is the difference between eukaryotic and prokaryotic cells?;Eukaryotic cells have a nucleus, prokaryotic cells do not;Eukaryotic cells are smaller than prokaryotic cells;There is no difference between them
+b;false;What is the role of enzymes in biochemical reactions?;They accelerate reactions;They slow down reactions;They neutralize reactions
+b;false;Which organ is the largest in our body?;Skin;Lungs;Liver
+b;false;What is the double helix structure molecule that carries genetic information?;DNA;RNA;ATP
+b;false;Which statement is true about inheritance?;Inheritance comes from the combination of parents' genetic information;Inheritance occurs only through the maternal line;Inheritance is a random process
+b;false;What is the main energy source for photosynthesizing plants?;Sunlight;Air;Water
+b;false;Which organ is responsible for filtering and cleansing the blood?;Liver;Kidney;Spleen
+b;false;Which organic molecule serves as a long-term energy storage in the body?;Fat;Protein;Carbohydrate
+b;false;What is the role of cytoplasm in cells?;Location of cell organelles and support;Storage of genetic information;Energy production
+b;false;Which organ is responsible for the production and secretion of hormones?;Endocrine glands;Kidney;Heart
+b;false;What is the role of platelets in the blood?;Blood clotting;Oxygen transport;Immune response
+b;false;What do we call the gradual change of living organisms over time in biology?;Evolution;The birth of organisms;The extinction of organisms
+b;false;Which statement is true about cell division?;During cell division, the cell divides into two identical daughter cells;Cell division occurs only in plant cells;Cell division occurs only when the cell becomes too large
+b;false;What is the role of the immune system in the body?;Protection against viruses and bacteria;Digestion of food;Regulation of blood pressure
+b;false;Which organ is responsible for transporting oxygenated blood in the body?;Lungs;Heart;Liver
+b;false;What is the role of chlorophyll in photosynthesis?;Absorption of solar energy and initiation of photosynthetic processes;Absorption of water through the roots;Storage of carbon dioxide from the air
+b;false;What is the role of red blood cells in the body?;Oxygen transport;Digestion of food;Immune response
+b;false;Which organ is responsible for regulating blood sugar levels?;Pancreas;Liver;Heart
+b;false;What is the main function of mitochondria?;Energy production;Protein synthesis;Cell division
+b;false;What do we call the breakdown of nutrients entering cells?;Glycolysis;Photosynthesis;Citric acid cycle
+b;false;In which plant cell is the green pigment found?;Chloroplast;Ribosome;Lysosome
+b;false;What types of cells make up the blood?;Red blood cells, white blood cells, platelets;Muscle cells;Nerve cells
+b;false;What is the difference between contracting and relaxing muscle cells?;Contracting muscles shorten, relaxing ones elongate;Contracting muscles are thicker, relaxing ones are thinner;There is no difference between them
+b;false;What is the role of the renal corpuscles in the kidney?;Urine formation;Regulation of blood pressure;Digestion
+b;false;What type of relationship exists between organisms and ecosystems?;Interaction;Contract;Consultation
+b;false;Which plant organ is responsible for absorbing water and nutrients?;Root;Leaf;Stem
+b;false;What is the role of chromosomes during cell division?;Inheritance of genetic information;Energy production;Protection against viruses
+b;false;What type of organic molecules make up proteins?;Amino acids;Fatty acids;Carbohydrates
+b;false;What is the difference between eukaryotic and prokaryotic cells?;Eukaryotic cells have a nucleus, prokaryotic cells do not;Eukaryotic cells are smaller than prokaryotic cells;There is no difference between them
+b;false;What is the role of enzymes in biochemical reactions?;They accelerate reactions;They slow down reactions;They neutralize reactions
+b;false;Which organ is the largest in the human body?;Skin;Lung;Liver
+b;false;What is the double helix molecule that carries genetic information?;DNA;RNA;ATP
+b;false;Which statement is true about inheritance?;Inheritance comes from the combination of genetic information from parents;Inheritance occurs only through the maternal line;Inheritance is a random process
+b;false;What is the main energy source for photosynthetic plants?;Sunlight;Air;Water
+b;false;Which organ is responsible for filtering and cleaning the blood?;Liver;Kidney;Spleen
+b;false;What is the role of platelets in the blood?;Blood clotting;Oxygen transport;Immune response
+b;false;What is referred to as evolution in biology?;The gradual change of organisms over time;The birth of organisms;The extinction of organisms
+b;true;Which organ system is responsible for metabolic regulation in the human body?;Endocrine system;Digestive system;Nervous system
+c;false;What is the largest planet in our solar system?;Jupiter;Mars;Venus
+c;false;In which constellation is the Big Dipper located?;Ursa Major;Ursa Minor;Orion
+c;false;What is the name of the third planet in our solar system?;Earth;Venus;Mars
+c;false;How many moons does Earth have?;1;2;0
+c;false;In which year did the first human moon landing occur?;1969;1975;1961
+c;false;What is the brightest star in the night sky?;Sirius;Venus;Mars
+c;false;Which type of star is VY Canis Majoris?;Red supergiant;White dwarf;Blue giant
+c;false;Which celestial body is referred to as "the morning star"?;Venus;Mercury;Mars
+c;false;How long does a year on Mars last?;687 days;365 days;512 days
+c;false;What is cosmic microwave background radiation?;Radiation emitted at the creation of the Universe;Radiation between galaxies;Microwave radiation from the Sun
+c;false;What is the most well-known meteor shower that occurs annually?;Perseids;Geminids;Lyrids
+c;false;From which celestial body do most meteorites originate that fall to Earth?;Asteroid belt;Mars;Moon
+c;false;How long does a year around Neptune last?;165 years;88 years;248 years
+c;false;What is a triple star?;A group of stars close to each other in the sky;A star three times as bright as the Sun;A star composed of three independent components
+c;false;What is the Kuiper Belt?;A region in the outer Solar System where dwarf planets and other small celestial bodies are found;A region in the inner Solar System where rocky planets are found;A belt around the Sun where most asteroids are located
+c;false;Which planet is named after a Roman goddess of war?;Mars;Venus;Jupiter
+c;false;In which constellation is the Pisces constellation located?;Pisces;Aquarius;Capricorn
+c;false;What is the name of the outermost planet in our Solar System?;Neptune;Uranus;Saturn
+c;false;Which celestial body was the first to orbit the Sun?;Mercury;Venus;Mars
+c;false;What is the name of the largest planet in our Solar System?;Jupiter;Saturn;Neptune
+c;false;What type of star is Proxima Centauri?;Red dwarf;Blue giant;White dwarf
+c;false;On which celestial body is the Hellas Basin, a crater the size of the Sahara desert, located?;Mars;Moon;Venus
+c;false;What are the names of the two most well-known dwarf planets in the Kuiper Belt?;Pluto and Eris;Haumea and Makemake;Ceres and Sedna
+c;false;In which year was Pluto, the largest dwarf planet in our Solar System, discovered?;1930;1945;1962
+c;false;What is the name of the largest moon in our Solar System?;Ganymede;Titan;Moon
+c;false;On which celestial body is the largest volcano in the Solar System, Olympus Mons, located?;Mars;Venus;Mercury
+c;false;Which planet is closest to Earth in terms of size?;Venus;Mars;Mercury
+c;false;How long does a year around Uranus last?;84 years;365 years;165 years
+c;false;On which celestial body is the greatest surface temperature difference in our Solar System found?;Venus;Mars;Mercury
+c;false;What are the two most well-known moons of Mars?;Phobos and Deimos;Io and Europa;Ganymede and Callisto
+c;false;On which celestial body is the extensive ring system composed of Cassini particles, the Cassini Division, found?;Saturn;Jupiter;Uranus
+c;false;In which year did the first successful Mars landing occur?;1976;1997;2003
+c;false;What is the name of the smallest planet in our Solar System?;Mercury;Mars;Pluto
+c;false;On which celestial body is the longest and deepest canyon, Valles Marineris, located?;Mars;Venus;Moon
+c;false;What type of star is Betelgeuse?;Red supergiant;Blue giant;White dwarf
+c;false;In which year did the first successful moon landing occur?;1969;1955;1975
+c;false;What is the name of the second planet in our Solar System?;Venus;Mars;Jupiter
+c;false;In which year was the dwarf planet Ceres discovered?;1801;1901;2001
+c;false;What is the name of the second largest planet in our Solar System?;Saturn;Neptune;Uranus
+c;false;What type of star is Deneb?;Blue giant;Red giant;White dwarf
+c;false;In which year did the last Apollo moon landing occur?;1972;1969;1975
+c;false;What is the name of the third largest planet in our Solar System?;Saturn;Neptune;Uranus
+c;false;Which celestial body is the hottest planet in our Solar System?;Venus;Mercury;Mars
+c;false;How long does a year around Saturn last?;29 years;84 years;165 years
+c;false;What type of star is Antares?;Red supergiant;Blue giant;White dwarf
+c;false;In which year was the first dwarf planet, Ceres, discovered?;1801;1901;2001
+c;false;What is the largest dwarf planet in our Solar System?;Eris;Pluto;Haumea
+c;false;In which year did the first successful Mars rover mission, Spirit and Opportunity, occur?;2004;1997;2012
+c;false;What is the name of the smallest dwarf planet in our Solar System?;Ceres;Eris;Haumea
+c;true;What is a light-year, and what do astronomers use it for?;A light-year is the distance that light travels in a vacuum in one year;Astronomers use the light-year (due to its magnitude) to measure distances between celestial bodies;A light-year is the amount of light emitted by stars in one year
+i;false;Who wrote the novel "Crime and Punishment"?;Fjodor Dostoevsky;Leo Tolstoy;Ivan Goncharov
+i;false;Which branch of the arts is part of literature?;Literature;Sculpture;Visual Arts
+i;false;What is the main theme of the tragedy "Romeo and Juliet"?;Love;Politics;War
+i;false;In which literary period did William Shakespeare create his works?;Renaissance;Baroque;Romanticism
+i;false;Who is the Nobel Prize-winning Hungarian author known for the novel "The Door"?;Magda Szabó;Imre Kertész;Sándor Márai
+i;false;To which literary genre does the novel "War and Peace" belong?;Novel;Drama;Novella
+i;false;What genre do the Greek epic works "Odyssey" and "Iliad" belong to?;Epic;Lyric;Drama
+i;false;What is the main theme of Gabriel Garcia Márquez's novel "One Hundred Years of Solitude"?;Solitude;Love;History
+i;false;Who wrote the novel "War and Peace"?;Leo Tolstoy;Fjodor Dostoevsky;Ivan Goncharov
+i;false;What is the title of the work: "In Search of Lost Time"?;Without a Shadow;In the Shadow;In Search of Lost Time
+i;false;Which poet composed the lines "Spring wind brings forth water"?;Sándor Petőfi;János Arany;Endre Ady
+i;false;What is the main theme of George Orwell's novel "1984"?;Totalitarianism;Love story;Fantasy
+i;false;Who is the author of the novel "Forrest Gump"?;Winston Groom;John Grisham;Tom Clancy
+i;false;Which literary period characterizes the Hungarian drama "Bánk Bán"?;Romanticism;Baroque;Realism
+i;false;Which novel did Aldous Huxley write, depicting a totalitarian vision of the future?;Brave New World;1984;The Ring of Fire
+i;false;Who is the protagonist of J.D. Salinger's novel "The Catcher in the Rye"?;Holden Caulfield;Tom Sawyer;Atticus Finch
+i;false;Which novel did Jane Austen write, with Elizabeth Bennet as the protagonist?;Pride and Prejudice;Emma;Sense and Sensibility
+i;false;Who is the author of the children's novel "Vuk"?;István Fekete;István Csukás;Zsigmond Móricz
+i;false;What is the main theme of Antoine de Saint-Exupéry's novel "The Little Prince"?;Friendship;Love;The Meaning of Life
+i;false;Which novel did Emily Brontë write, telling a passionate, tragic love story?;Wuthering Heights;Jane Eyre;The Goldfinch
+i;false;Who composed the Greek epics "Iliad" and "Odyssey"?;Homer;Hesiod;Stesichorus
+i;false;In which William Faulkner novel can we follow the Compson family's story?;The Sound and the Fury;Absalom, Absalom!;Light in August
+i;false;Which genre does George Orwell's allegorical novel "Animal Farm" belong to?;Allegory;Satire;Drama
+i;false;Who is the author of the "Harry Potter" book series?;J.K. Rowling;J.R.R. Tolkien;C.S. Lewis
+i;false;Which writer created the novel "Les Misérables"?;Victor Hugo;Gustave Flaubert;Émile Zola
+i;false;Which poet wrote the verses "Spring wind brings forth water"?;Sándor Petőfi;János Arany;Endre Ady
+i;false;What is the main theme of Milan Kundera's novel "Slowness"?;Politics;Love;Emigration
+i;false;Who is the author of the novel "War and Peace"?;Leo Tolstoy;Fjodor Dostoevsky;Ivan Goncharov
+i;false;Which novel did José Saramago write, where a pandemic of blindness spreads?;Blindness;The Year of the Death of Ricardo Reis;The Gospel According to Jesus Christ
+i;false;What is the main theme of Khaled Hosseini's novel "The Kite Runner"?;War;Family;Friendship
+i;false;Who is the author of the story "Tristan and Isolde"?;Gottfried von Strassburg;Thomas Mann;Richard Wagner
+i;false;In which William Golding novel do we follow a group of boys' struggle for survival on a deserted island?;Lord of the Flies;The Catcher in the Rye;To Kill a Mockingbird
+i;false;In which Jules Verne novel do Phileas Fogg and Passepartout take a journey around the world?;Around the World in Eighty Days;From the Earth to the Moon;Twenty Thousand Leagues Under the Sea
+i;false;Who is the protagonist of Franz Kafka's novella "The Metamorphosis"?;Gregor Samsa;Raskolnikov;Meursault
+i;false;Which novel's protagonist is Holden Caulfield, whom we hear from in a psychiatric institute?;The Catcher in the Rye;One Flew Over the Cuckoo's Nest;Girl, Interrupted
+i;false;Who created the work "The Divine Comedy"?;Dante Alighieri;Petrarch;Boccaccio
+i;false;Which book features a girl raised by birds in the jungle?;The Jungle Book;Tarzan;The Wizard of Oz
+i;false;Which novel did Ken Kesey write, set in a psychiatric hospital?;One Flew Over the Cuckoo's Nest;The Shipping News;The Grapes of Wrath
+i;false;Who is the protagonist of John Steinbeck's novel "Of Mice and Men"?;George Milton;Tom Joad;Lennie Small
+i;false;Which Nobel Prize-winning author wrote "The Bluest Eye"?;Toni Morrison;Alice Munro;Doris Lessing
+i;false;Who is the author of the novel "Out of Africa"?;Karen Blixen;Isak Dinesen;J.M. Coetzee
+i;false;Which branch of art is emphasized in Marcel Proust's novel "In Search of Lost Time"?;Music;Painting;Writing
+i;false;Who wrote the novel "The Great Gatsby"?;F. Scott Fitzgerald;Ernest Hemingway;John Steinbeck
+i;false;Which poet created the novel "Les Misérables"?;Victor Hugo;Gustave Flaubert;Émile Zola
+i;false;Who is the author of the sci-fi novel "Brave New World"?;Aldous Huxley;George Orwell;Ray Bradbury
+i;false;Which novel did Haruki Murakami write, featuring a talking cat?;Kafka on the Shore;Norwegian Wood;1Q84
+i;false;Who is the author of the fantasy series "The Dark Tower"?;Stephen King;J.K. Rowling;George R.R. Martin
+i;false;Which crime writer created the "Sherlock Holmes" detective stories?;Arthur Conan Doyle;Agatha Christie;Dashiell Hammett
+i;false;What is the main theme of Ayn Rand's novel "Atlas Shrugged"?;Individualism;Communism;Socialism
+i;false;Who is the protagonist of Gabriel García Márquez's novel "Love in the Time of Cholera"?;Fermina Daza;Florentino Ariza;Juvenal Urbino
+i;true;Which novel did Fjodor Mikhailovich Dostoevsky write?;Crime and Punishment;The Idiot;War and Peace
