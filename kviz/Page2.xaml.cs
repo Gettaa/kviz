@@ -17,7 +17,7 @@ using System.Diagnostics;
 namespace kviz {
 	public partial class Page2 : Page {
 
-		public Jatek jatek = new Jatek(Page1.ValasztottJatekos, Page1.ValasztottKat);
+		public Jatek jatek = new Jatek(Page1.ValasztottJatekos, Page1.ValasztottKat, Page1.lang);
 		private List<RadioButton> radioButtons = [];
 		private List<CheckBox> checkBoxes = [];
 

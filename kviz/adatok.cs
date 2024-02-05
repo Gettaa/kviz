@@ -88,12 +88,18 @@ namespace kviz {
 
 	public static class Adatok {
 
-		public static List<Kerdes> Kerdesek = new List<Kerdes>();
-		public static List<Jatekos> Jatekosok = new List<Jatekos>();
+		public static List<Kerdes> Kerdesek = new();
+		public static List<Kerdes> KerdesekEN = new();
+		public static List<Kerdes> KerdesekDE = new();
+		public static List<Jatekos> Jatekosok = new();
 
 		public static void Betolt() {
 			string[] szavakFajl = File.ReadAllLines("kerdesek.txt", Encoding.UTF8);
 			foreach (string sor in szavakFajl) Kerdesek.Add(new Kerdes(sor));
+			string[] szavakFajlEN = File.ReadAllLines("kerdeseken.txt", Encoding.UTF8);
+			foreach (string sor in szavakFajlEN) KerdesekEN.Add(new Kerdes(sor));
+			string[] szavakFajlDE = File.ReadAllLines("kerdesekde.txt", Encoding.UTF8);
+			foreach (string sor in szavakFajlDE) KerdesekDE.Add(new Kerdes(sor));
 			string[] jatekosokFajl = File.ReadAllLines("jatekosok.txt", Encoding.UTF8);
 			foreach (string sor in jatekosokFajl) Jatekosok.Add(new Jatekos(sor));
 		}

@@ -21,16 +21,20 @@ namespace kviz {
 		public Kerdes JelenKerdes() { return Kerdesek[KerdesAllas-1]; }
 		private bool gameOver = false;
 
-		public Jatek(Jatekos j, char c) {
+		public Jatek(Jatekos j, char c, string lang) {
 			Embi = j;
 			Temakor = c;
-			Kerdesek =
-				Adatok.Kerdesek
-				.Where(k => k.Kategoria == Temakor)
-				.OrderBy(k => Guid.NewGuid())
-				.Take(10)
-				.ToArray()
-			;
+			switch (lang) {
+				case "en":
+					Kerdesek = Adatok.KerdesekEN.Where(k => k.Kategoria == Temakor).OrderBy(k => Guid.NewGuid()).Take(10).ToArray();
+					break;
+				case "de":
+					Kerdesek = Adatok.KerdesekDE.Where(k => k.Kategoria == Temakor).OrderBy(k => Guid.NewGuid()).Take(10).ToArray();
+					break;
+				default:
+					Kerdesek = Adatok.Kerdesek.Where(k => k.Kategoria == Temakor).OrderBy(k => Guid.NewGuid()).Take(10).ToArray();
+					break;
+			}
 		}
 
 		public void checkGameOver() {
@@ -45,7 +49,6 @@ namespace kviz {
 		}
 
 		public void Next(List<string> szovegek) {
-			bool j = true;
 			if (KerdesAllas < 10 && szovegek.Where(s => JelenKerdes().KevertValaszok.Contains(s)).Count() == 2) JoTipp++;
 			RosszTipp = KerdesAllas++ - JoTipp;
 			if (KerdesAllas > 10) KerdesAllas = 10;

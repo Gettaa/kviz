@@ -22,7 +22,7 @@ namespace kviz
 	/// </summary>
 	public partial class Page1 : Page
 	{
-		public string lang = "hu";
+		public static string lang = "hu";
 		public static char ValasztottKat = 'b';
 		public static Jatekos ValasztottJatekos = new();
 		public Page1() {
