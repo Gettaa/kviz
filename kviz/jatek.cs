@@ -34,8 +34,8 @@ namespace kviz {
 		public void Next(string szoveg) {
 			if (KerdesAllas < 9 && Kerdesek[KerdesAllas++].HelyesTipp(szoveg)) JoTipp++;
 			RosszTipp = KerdesAllas - JoTipp;
-            Console.WriteLine($"Jotipp: {JoTipp} Rossztipp : {RosszTipp} Kerdesallas: {KerdesAllas}");
-        }
+			Console.WriteLine($"Jotipp: {JoTipp} Rossztipp : {RosszTipp} Kerdesallas: {KerdesAllas}");
+		}
 
 		public void Next(List<string> szovegek) {
 			bool j = true;
