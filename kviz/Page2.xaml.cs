@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Diagnostics;
 
 namespace kviz {
 	public partial class Page2 : Page {
@@ -33,12 +34,17 @@ namespace kviz {
 		}
 
 		private void Next() {
-			if (jatek.JelenKerdes().TobbValasz) jatek.Next(checkBoxes.Where(c => c.IsChecked == true).Select(c => c.Content.ToString()).ToList());
-			else jatek.Next(radioButtons.Where(c => c.IsChecked == true).First().Content.ToString());
+			var cb = checkBoxes.Where(c => c.IsChecked == true);
+			var rb = radioButtons.Where(c => c.IsChecked == true);
+			if (cb.Count() > 0 && jatek.JelenKerdes().TobbValasz) jatek.Next(cb.Select(c => c.Content.ToString()).ToList());
+			if (rb.Count() > 0 && !jatek.JelenKerdes().TobbValasz) jatek.Next(rb.Select(c => c.Content.ToString()).First());
+			else Console.WriteLine("nincs kijelolve");
+			checkBoxes.ForEach(c => c.IsChecked = false);
+			radioButtons.ForEach(r => r.IsChecked = false);
 		}
 
 		private void updateContent() {
-			kerdesszam.Content = $"{jatek.KerdesAllas+1}/10";
+			kerdesszam.Content = $"{jatek.KerdesAllas}/10";
 			kerdes.Content = jatek.JelenKerdes().Szoveg;
 			if (jatek.JelenKerdes().TobbValasz) {
 				radioButtons.ForEach(r => r.Visibility = Visibility.Hidden);

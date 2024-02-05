@@ -49,6 +49,10 @@ namespace kviz
 
 		}
 
+		private void playerchooser_SelectionChanged(object sender, SelectionChangedEventArgs e) {
+
+		}
+
 		private void selectPlayer() {
 			string nev = "teszt";
 			if (nev.Count() > 0) {

@@ -8,6 +8,7 @@ using System.Windows;
 using System.IO;
 using System.Text;
 using System.Security.Cryptography.X509Certificates;
+using System.Diagnostics;
 
 
 namespace kviz {
@@ -35,11 +36,9 @@ namespace kviz {
 		}
 
 		public bool HelyesTipp(string input) {
-			string lv1 = Valasz1.ToLower();
-			string lv2 = Valasz2.ToLower();
-			input = input.ToLower();
-			if (TobbValasz && (input == lv1 || input == lv2)) return true;
-			if (!TobbValasz && input == lv1) return true;
+			Trace.WriteLine(input, Valasz1);
+			if (TobbValasz && (input == Valasz1 || input == Valasz2)) return true;
+			if (!TobbValasz && input == Valasz1) return true;
 			else return false;
 		}
 	}

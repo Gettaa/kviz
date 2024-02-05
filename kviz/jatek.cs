@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.IO;
 using System.Text;
+using System.Diagnostics;
 
 namespace kviz {
 	public class Jatek {
@@ -14,10 +15,11 @@ namespace kviz {
 		public Jatekos Embi {  get; private set; }
 		public char Temakor { get; private set; }
 		public Kerdes[] Kerdesek { get; private set; }
-		public int KerdesAllas { get; private set; } = 0;
+		public int KerdesAllas { get; private set; } = 1;
 		public int JoTipp { get; private set; } = 0;
 		public int RosszTipp { get; private set; } = 0;
-		public Kerdes JelenKerdes() { return Kerdesek[KerdesAllas]; }
+		public Kerdes JelenKerdes() { return Kerdesek[KerdesAllas-1]; }
+		private bool gameOver = false;
 
 		public Jatek(Jatekos j, char c) {
 			Embi = j;
@@ -31,21 +33,23 @@ namespace kviz {
 			;
 		}
 
+		public void checkGameOver() {
+			if (!gameOver && (JoTipp + RosszTipp == 10)) gameOver = true;
+		}
+
 		public void Next(string szoveg) {
-			if (KerdesAllas < 9 && Kerdesek[KerdesAllas++].HelyesTipp(szoveg)) JoTipp++;
-			RosszTipp = KerdesAllas - JoTipp;
-			Console.WriteLine($"Jotipp: {JoTipp} Rossztipp : {RosszTipp} Kerdesallas: {KerdesAllas}");
+			if (KerdesAllas < 10 && JelenKerdes().HelyesTipp(szoveg)) JoTipp++;
+			RosszTipp = KerdesAllas++ - JoTipp;
+			if (KerdesAllas > 10) KerdesAllas = 10;
+			Trace.WriteLine($"Jotipp: {JoTipp} Rossztipp: {RosszTipp} Kerdesallas: {KerdesAllas}");
 		}
 
 		public void Next(List<string> szovegek) {
 			bool j = true;
-			if (KerdesAllas < 9) {
-				foreach (string s in szovegek) if (!JelenKerdes().KevertValaszok.Contains(s)) j = false;
-				if (j) JoTipp++;
-				KerdesAllas++;
-			}
-			RosszTipp = KerdesAllas - JoTipp;
-			Console.WriteLine($"Jotipp: {JoTipp} Rossztipp : {RosszTipp} Kerdesallas: {KerdesAllas}");
+			if (KerdesAllas < 10 && szovegek.Where(s => JelenKerdes().KevertValaszok.Contains(s)).Count() == 2) JoTipp++;
+			RosszTipp = KerdesAllas++ - JoTipp;
+			if (KerdesAllas > 10) KerdesAllas = 10;
+			Trace.WriteLine($"Jotipp: {JoTipp} Rossztipp: {RosszTipp} Kerdesallas: {KerdesAllas}");
 		}
 	}
 }
