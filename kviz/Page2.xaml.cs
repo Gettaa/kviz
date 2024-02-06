@@ -45,7 +45,7 @@ namespace kviz {
 
 		private void updateContent() {
 			kerdesszam.Content = $"{jatek.KerdesAllas}/10";
-			kerdes.Content = jatek.JelenKerdes().Szoveg;
+			kerdes.Text = jatek.JelenKerdes().Szoveg;
 			if (jatek.JelenKerdes().TobbValasz) {
 				radioButtons.ForEach(r => r.Visibility = Visibility.Hidden);
 				checkBoxes.ForEach(c => c.Visibility = Visibility.Visible);
