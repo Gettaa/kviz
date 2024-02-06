@@ -20,13 +20,13 @@ namespace kviz
         private Jatek jatek = Page2.jatek;
         public Page3() {
             InitializeComponent();
-            string temakor = jatek.Temakor switch {
-				'b' => "Biológia",
-				'c' => "Csillagászat",
-				'i' => "Irodalom",
-                _ => "téma"
-			};
-			jatekeredmenytema.Content = $"A játék eredménye ({temakor}):";
+            jatekeredmenytema.Content = $"A játék eredménye ({
+                jatek.Temakor switch {
+				    'b' => "Biológia",
+				    'c' => "Csillagászat",
+				    'i' => "Irodalom",
+				    _ => "téma"
+			}}):";
             neveredmenyei.Content = $"{jatek.Embi.Nev} eddigi eredményei:";
             fillCurrentStats();
             fillAlltimeStats();
