@@ -41,6 +41,7 @@ namespace kviz {
 			else Console.WriteLine("nincs kijelolve");
 			checkBoxes.ForEach(c => c.IsChecked = false);
 			radioButtons.ForEach(r => r.IsChecked = false);
+			
 		}
 
 		private void updateContent() {

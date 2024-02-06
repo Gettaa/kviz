@@ -22,6 +22,7 @@ namespace kviz {
 		public string Valasz1 { get; private set; } // mindig helyes
 		public string Valasz2 { get; private set; } // if TobbValasz = true akkor helyes else hamis
 		public string Valasz3 { get; private set; } // mindig hamis
+		public string? KepForras { get; private set; }
 		public string[] KevertValaszok { get; private set; }
 
 		public Kerdes(string sor) {
@@ -32,6 +33,7 @@ namespace kviz {
 			Valasz1 = cuccok[3];
 			Valasz2 = cuccok[4];
 			Valasz3 = cuccok[5];
+			if (cuccok.Length > 6) KepForras = cuccok[6];
 			KevertValaszok = new string[] { Valasz1, Valasz2, Valasz3 }.OrderBy(x => Guid.NewGuid()).ToArray();
 		}
 
