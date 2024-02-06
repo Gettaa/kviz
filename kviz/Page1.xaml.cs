@@ -14,6 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Diagnostics;
 
 namespace kviz
 {
@@ -26,7 +27,6 @@ namespace kviz
 		public static char ValasztottKat = 'b';
 		public static Jatekos ValasztottJatekos = new();
 		public Page1() {
-			selectPlayer();
 			InitializeComponent();
 		}
 
@@ -50,11 +50,11 @@ namespace kviz
 		}
 
 		private void playerchooser_SelectionChanged(object sender, SelectionChangedEventArgs e) {
-
+			selectPlayer();
 		}
 
 		private void selectPlayer() {
-			string nev = "teszt";
+			string nev = playerchooser.Text;
 			if (nev.Count() > 0) {
 				var a = Adatok.Jatekosok.Where(j => j.Nev == nev).Select(j => j);
 				if (a.Count() == 0) Adatok.Jatekosok.Add(new Jatekos(nev, true));
