@@ -113,6 +113,7 @@ namespace kviz {
 				$"{s.Nev};{s.B_Osszes};{s.B_Helyes};{s.C_Osszes};{s.C_Helyes};{s.I_Osszes};{s.I_Helyes}"
 			));
 			File.WriteAllLines("jatekosok.txt", irandoJatekosok);
+			Betolt();
 		}
 	}
 }

@@ -17,7 +17,7 @@ using System.Diagnostics;
 namespace kviz {
 	public partial class Page2 : Page {
 
-		public Jatek jatek = new Jatek(Page1.ValasztottJatekos, Page1.ValasztottKat, Page1.lang);
+		public static Jatek jatek = new Jatek(Page1.ValasztottJatekos, Page1.ValasztottKat, Page1.lang);
 		private List<RadioButton> radioButtons = [];
 		private List<CheckBox> checkBoxes = [];
 
@@ -41,6 +41,10 @@ namespace kviz {
 			else Console.WriteLine("nincs kijelolve");
 			checkBoxes.ForEach(c => c.IsChecked = false);
 			radioButtons.ForEach(r => r.IsChecked = false);
+			if (jatek.saved) {
+				Page3 page3 = new();
+				NavigationService.Navigate(page3);
+			}
 			
 		}
 

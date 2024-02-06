@@ -15,14 +15,33 @@ using System.Windows.Shapes;
 
 namespace kviz
 {
-    /// <summary>
-    /// Interaction logic for Page3.xaml
-    /// </summary>
-    public partial class Page3 : Page
-    {
-        public Page3()
-        {
+    public partial class Page3 : Page {
+
+        private Jatek jatek = Page2.jatek;
+        public Page3() {
             InitializeComponent();
+            string temakor = jatek.Temakor switch {
+				'b' => "Biológia",
+				'c' => "Csillagászat",
+				'i' => "Irodalom",
+                _ => "téma"
+			};
+			jatekeredmenytema.Content = $"A játék eredménye ({temakor}):";
+            neveredmenyei.Content = $"{jatek.Embi.Nev} eddigi eredményei:";
+            fillCurrentStats();
+            fillAlltimeStats();
+        }
+
+        private void fillCurrentStats() {
+            foreach (var kerdes in jatek.Kerdesek) {
+                kerdesosszeg.Items.Add($"Kérdés: {kerdes.Szoveg} --- Helyes válasz(ok): {(kerdes.TobbValasz ? $"{kerdes.Valasz1}, {kerdes.Valasz2}" : kerdes.Valasz1)}");
+            }
+        }
+
+        private void fillAlltimeStats() {
+            eddigieredmeny.Items.Add($"Biológia témakörben eddigi eredmény: {jatek.Embi.B_Helyes}/{jatek.Embi.B_Osszes}");
+            eddigieredmeny.Items.Add($"Csillagászat témakörben eddigi eredmény: {jatek.Embi.C_Helyes}/{jatek.Embi.C_Osszes}");
+            eddigieredmeny.Items.Add($"Irodalom témakörben eddigi eredmény: {jatek.Embi.I_Helyes}/{jatek.Embi.I_Osszes}");
         }
     }
 }

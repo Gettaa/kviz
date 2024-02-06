@@ -20,7 +20,7 @@ namespace kviz {
 		public int RosszTipp { get; private set; } = 0;
 		public Kerdes JelenKerdes() { return Kerdesek[KerdesAllas-1]; }
 		private bool gameOver = false;
-		private bool saved = false;
+		public bool saved = false;
 
 		public Jatek(Jatekos j, char c, string lang) {
 			Embi = j;
