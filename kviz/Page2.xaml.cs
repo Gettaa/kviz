@@ -65,6 +65,11 @@ namespace kviz {
 					radioButtons[i].Content = jatek.JelenKerdes().KevertValaszok[i];
 				}
 			}
+			if (jatek.JelenKerdes().KepForras != null) {
+				var converter = new ImageSourceConverter();
+				kep.Source = (ImageSource)converter.ConvertFromString(jatek.JelenKerdes().KepForras);
+			}
+			else kep.Source = null;
 		}
 	}
 }
