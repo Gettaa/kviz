@@ -20,17 +20,33 @@ namespace kviz {
 		public static Jatek jatek = new Jatek(Page1.ValasztottJatekos, Page1.ValasztottKat, Page1.lang);
 		private List<RadioButton> radioButtons = [];
 		private List<CheckBox> checkBoxes = [];
+		private bool rozsasMod = false;
+		private string[] rozsasNevArray = ["rozsast", "tibor", "tibi", "rozsas", "rozsa", "terminátor", "terminator", "rózsás", "rózsást"];
 
 		public Page2() {
 			InitializeComponent();
 			radioButtons.Add(valasz1); radioButtons.Add(valasz2); radioButtons.Add(valasz3);
 			checkBoxes.Add(valasz1t); checkBoxes.Add(valasz2t); checkBoxes.Add(valasz3t);
+			cheatLabel.Visibility = Visibility.Hidden;
+			if (rozsasNevArray.Contains(jatek.Embi.Nev.ToLower())) rozsasMod = true;
+			if (rozsasMod) cheatLabel.Visibility = Visibility.Visible;
 			updateContent();
 		}
 
 		private void tovabb_Click(object sender, RoutedEventArgs e) {
 			Next();
 			updateContent();
+		}
+
+		private void RozsasMod() {
+			Kerdes k = jatek.JelenKerdes();
+			if (rozsasMod) {
+				if (k.TobbValasz) {
+					cheatLabel.Content = $"Helyes válaszok: {k.Valasz1}, {k.Valasz2}";
+				} else {
+					cheatLabel.Content = $"Helyes válasz: {k.Valasz1}";
+				}
+			}
 		}
 
 		private void Next() {
@@ -70,6 +86,7 @@ namespace kviz {
 				kep.Source = (ImageSource)converter.ConvertFromString(jatek.JelenKerdes().KepForras);
 			}
 			else kep.Source = null;
+			RozsasMod();
 		}
 	}
 }

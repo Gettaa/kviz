@@ -28,7 +28,7 @@ namespace kviz {
 			Kerdesek = lang switch {
 				"en" => Adatok.KerdesekEN.Where(k => k.Kategoria == Temakor).OrderBy(k => Guid.NewGuid()).Take(10).ToArray(),
 				"de" => Adatok.KerdesekDE.Where(k => k.Kategoria == Temakor).OrderBy(k => Guid.NewGuid()).Take(10).ToArray(),
-				_ => Adatok.Kerdesek.Where(k => k.Kategoria == Temakor).OrderBy(k => Guid.NewGuid()).Take(10).ToArray(),
+				_    => Adatok.Kerdesek  .Where(k => k.Kategoria == Temakor).OrderBy(k => Guid.NewGuid()).Take(10).ToArray(),
 			};
 		}
 		
