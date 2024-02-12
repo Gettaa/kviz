@@ -36,8 +36,8 @@ namespace kviz {
 		private void Next() {
 			var cb = checkBoxes.Where(c => c.IsChecked == true);
 			var rb = radioButtons.Where(c => c.IsChecked == true);
-			if (cb.Count() > 0 && jatek.JelenKerdes().TobbValasz) jatek.Next(cb.Select(c => c.Content.ToString()).ToList());
-			if (rb.Count() > 0 && !jatek.JelenKerdes().TobbValasz) jatek.Next(rb.Select(c => c.Content.ToString()).First());
+			if (cb.Any() && jatek.JelenKerdes().TobbValasz) jatek.Next(cb.Select(c => c.Content.ToString()).ToList());
+			if (rb.Any() && !jatek.JelenKerdes().TobbValasz) jatek.Next(rb.Select(c => c.Content.ToString()).First());
 			else Console.WriteLine("nincs kijelolve");
 			checkBoxes.ForEach(c => c.IsChecked = false);
 			radioButtons.ForEach(r => r.IsChecked = false);
