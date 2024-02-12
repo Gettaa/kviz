@@ -18,6 +18,7 @@ namespace kviz {
 	public partial class Page2 : Page {
 
 		public static Jatek jatek = new Jatek(Page1.ValasztottJatekos, Page1.ValasztottKat, Page1.lang);
+		public static int KERDESSZAM = Page1.KERDESSZAM;
 		private List<RadioButton> radioButtons = [];
 		private List<CheckBox> checkBoxes = [];
 		private bool rozsasMod = false;
@@ -65,7 +66,7 @@ namespace kviz {
 		}
 
 		private void updateContent() {
-			kerdesszam.Content = $"{jatek.KerdesAllas}/10";
+			kerdesszam.Content = $"{jatek.KerdesAllas}/{KERDESSZAM}";
 			kerdes.Text = jatek.JelenKerdes().Szoveg;
 			if (jatek.JelenKerdes().TobbValasz) {
 				radioButtons.ForEach(r => r.Visibility = Visibility.Hidden);

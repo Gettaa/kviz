@@ -26,6 +26,7 @@ namespace kviz
 		public static string lang = "hu";
 		public static char ValasztottKat = 'b';
 		public static Jatekos ValasztottJatekos = new();
+		public static int KERDESSZAM = 10;
 		public Page1() {
 			InitializeComponent();
 			Adatok.Jatekosok.ForEach(j => playerchooser.Items.Add(j.Nev));
