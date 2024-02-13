@@ -29,7 +29,7 @@ namespace kviz
 		public static int KERDESSZAM = 10;
 		public Page1() {
 			InitializeComponent();
-			Adatok.Jatekosok.ForEach(j => playerchooser.Items.Add(j.Nev));
+			Adatok.Jatekosok.ForEach(j => playerchooser.Items.Add(j.Nev));;
 		}
 
 		private void biobutton_Checked(object sender, RoutedEventArgs e) {
@@ -86,5 +86,10 @@ namespace kviz
 					lang = "hu"; break;
 			}
 		}
-	}
+
+        private void slValue_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+			KERDESSZAM = (int)slValue.Value;
+        }
+    }
 }
