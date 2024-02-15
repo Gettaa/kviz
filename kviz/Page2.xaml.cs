@@ -22,7 +22,7 @@ namespace kviz {
 		private List<RadioButton> radioButtons = [];
 		private List<CheckBox> checkBoxes = [];
 		private bool rozsasMod = false;
-		private string[] rozsasNevArray = ["rozsast", "tibor", "tibi", "rozsas", "rozsa", "terminátor", "terminator", "rózsás", "rózsást"];
+		private string[] rozsasNevArray = ["rozsast", "tibor", "tibi", "rozsas", "rozsa", "terminátor", "terminator", "rózsás", "rózsást", "tybor", "tyborg", "tiborg"];
 
 		public Page2() {
 			InitializeComponent();
